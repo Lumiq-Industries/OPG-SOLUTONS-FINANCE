@@ -1,0 +1,863 @@
+[
+  {
+    "id": "1",
+    "slug": "18v-drill-kit",
+    "name": "18V Drill Kit",
+    "description": "Premium cordless drill kit with battery and bits.",
+    "longDescription": "Premium cordless drill kit with battery and bits.",
+    "price": 1500,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "https://opgsolutions.co.za/wp-content/uploads/2025/11/18-V-Drill-Kit.png",
+    "images": [
+      "https://opgsolutions.co.za/wp-content/uploads/2025/11/18-V-Drill-Kit.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-DRILL-18V"
+  },
+  {
+    "id": "2",
+    "slug": "46-piece-bit-set",
+    "name": "46-Piece Bit Set",
+    "description": "Multi-purpose 46-piece bit set for home and workshop use.",
+    "longDescription": "Multi-purpose 46-piece bit set for home and workshop use.",
+    "price": 550,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "https://opgsolutions.co.za/wp-content/uploads/2025/11/46%E2%80%91Piece-Bit-Set.png",
+    "images": [
+      "https://opgsolutions.co.za/wp-content/uploads/2025/11/46%E2%80%91Piece-Bit-Set.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-BIT-46"
+  },
+  {
+    "id": "3",
+    "slug": "drill-bit-combo-set",
+    "name": "Drill Bit Combo Set",
+    "description": "Assorted drill bit combo set for everyday drilling tasks.",
+    "longDescription": "Assorted drill bit combo set for everyday drilling tasks.",
+    "price": 215,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/drill-bit-combo-set.png",
+    "images": [
+      "/products/drill-bit-combo-set.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-BIT-COMBO"
+  },
+  {
+    "id": "4",
+    "slug": "heavy-duty-10m-extension-lead",
+    "name": "Heavy Duty 10m Extension Lead",
+    "description": "Ellies 16A heavy duty 10 metre extension lead.",
+    "longDescription": "Ellies 16A heavy duty 10 metre extension lead.",
+    "price": 415,
+    "category": "Electrical",
+    "categorySlug": "electrical",
+    "tags": [
+      "electrical"
+    ],
+    "image": "/products/heavy-duty-10m-extension-lead.png",
+    "images": [
+      "/products/heavy-duty-10m-extension-lead.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-EXT-10M"
+  },
+  {
+    "id": "5",
+    "slug": "utility-knife-refill-blades",
+    "name": "Utility Knife + Refill Blades",
+    "description": "ROX utility knife with refill blades.",
+    "longDescription": "ROX utility knife with refill blades.",
+    "price": 62,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/utility-knife-refill-blades.jpeg",
+    "images": [
+      "/products/utility-knife-refill-blades.jpeg"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-KNIFE-ROX"
+  },
+  {
+    "id": "6",
+    "slug": "painter-s-tape-multipack",
+    "name": "Painter's Tape Multipack",
+    "description": "Unitac painter's tape multipack for clean paint lines.",
+    "longDescription": "Unitac painter's tape multipack for clean paint lines.",
+    "price": 325,
+    "category": "Paint & Consumables",
+    "categorySlug": "paint",
+    "tags": [
+      "paint"
+    ],
+    "image": "/products/painter-s-tape-multipack.png",
+    "images": [
+      "/products/painter-s-tape-multipack.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-TAPE-MP"
+  },
+  {
+    "id": "7",
+    "slug": "blue-disposable-nitrile-gloves",
+    "name": "Blue Disposable Nitrile Gloves",
+    "description": "Bulk pack disposable nitrile gloves for trade and DIY.",
+    "longDescription": "Bulk pack disposable nitrile gloves for trade and DIY.",
+    "price": 160,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/blue-disposable-nitrile-gloves.png",
+    "images": [
+      "/products/blue-disposable-nitrile-gloves.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-GLOVE-NIT"
+  },
+  {
+    "id": "8",
+    "slug": "clear-safety-goggles",
+    "name": "Clear Safety Goggles",
+    "description": "Clear safety goggles for construction and workshop use.",
+    "longDescription": "Clear safety goggles for construction and workshop use.",
+    "price": 135,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/clear-safety-goggles.png",
+    "images": [
+      "/products/clear-safety-goggles.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-GOGGLE-CLEAR"
+  },
+  {
+    "id": "9",
+    "slug": "two-part-epoxy-adhesive-kit",
+    "name": "Two-Part Epoxy Adhesive Kit",
+    "description": "All-purpose two-part epoxy adhesive kit.",
+    "longDescription": "All-purpose two-part epoxy adhesive kit.",
+    "price": 250,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/two-part-epoxy-adhesive-kit.jpeg",
+    "images": [
+      "/products/two-part-epoxy-adhesive-kit.jpeg"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-EPOXY-2P"
+  },
+  {
+    "id": "10",
+    "slug": "600mm-aluminium-spirit-level",
+    "name": "600mm Aluminium Spirit Level",
+    "description": "600mm aluminium spirit level for accurate measurements.",
+    "longDescription": "600mm aluminium spirit level for accurate measurements.",
+    "price": 175,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/600mm-aluminium-spirit-level.png",
+    "images": [
+      "/products/600mm-aluminium-spirit-level.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-LEVEL-600"
+  },
+  {
+    "id": "11",
+    "slug": "25l-plastic-polycan",
+    "name": "25L Plastic Polycan",
+    "description": "25 litre plastic polycan for water or fuel storage.",
+    "longDescription": "25 litre plastic polycan for water or fuel storage.",
+    "price": 189,
+    "category": "Plumbing",
+    "categorySlug": "plumbing",
+    "tags": [
+      "plumbing"
+    ],
+    "image": "/products/25l-plastic-polycan.png",
+    "images": [
+      "/products/25l-plastic-polycan.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-POLYCAN-25L"
+  },
+  {
+    "id": "12",
+    "slug": "100l-storage-drum-open-head",
+    "name": "100L Storage Drum (Open Head)",
+    "description": "100 litre open-head storage drum in blue.",
+    "longDescription": "100 litre open-head storage drum in blue.",
+    "price": 615,
+    "category": "Plumbing",
+    "categorySlug": "plumbing",
+    "tags": [
+      "plumbing"
+    ],
+    "image": "/products/100l-storage-drum-open-head.png",
+    "images": [
+      "/products/100l-storage-drum-open-head.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-DRUM-100L"
+  },
+  {
+    "id": "13",
+    "slug": "210l-hdpe-plastic-drum",
+    "name": "210L HDPE Plastic Drum",
+    "description": "210 litre HDPE plastic blowpack drum.",
+    "longDescription": "210 litre HDPE plastic blowpack drum.",
+    "price": 520,
+    "category": "Plumbing",
+    "categorySlug": "plumbing",
+    "tags": [
+      "plumbing"
+    ],
+    "image": "/products/210l-hdpe-plastic-drum.png",
+    "images": [
+      "/products/210l-hdpe-plastic-drum.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-DRUM-210L"
+  },
+  {
+    "id": "14",
+    "slug": "75l-plastic-tub-bucket",
+    "name": "75L Plastic Tub Bucket",
+    "description": "75 litre plastic tub bucket with rope handle.",
+    "longDescription": "75 litre plastic tub bucket with rope handle.",
+    "price": 36,
+    "category": "Plumbing",
+    "categorySlug": "plumbing",
+    "tags": [
+      "plumbing"
+    ],
+    "image": "/products/75l-plastic-tub-bucket.png",
+    "images": [
+      "/products/75l-plastic-tub-bucket.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-BUCKET-75L"
+  },
+  {
+    "id": "15",
+    "slug": "water-drum-blue-black",
+    "name": "Water Drum (Blue/Black)",
+    "description": "Sealed water storage drum, 100L–250L range.",
+    "longDescription": "Sealed water storage drum, 100L–250L range.",
+    "price": 350,
+    "category": "Plumbing",
+    "categorySlug": "plumbing",
+    "tags": [
+      "plumbing"
+    ],
+    "image": "/products/water-drum-blue-black.png",
+    "images": [
+      "/products/water-drum-blue-black.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-WATER-DRUM"
+  },
+  {
+    "id": "16",
+    "slug": "5l-hand-water-dispenser",
+    "name": "5L Hand Water Dispenser",
+    "description": "Portable 5L container with manual tap spout.",
+    "longDescription": "Portable 5L container with manual tap spout.",
+    "price": 82,
+    "category": "Plumbing",
+    "categorySlug": "plumbing",
+    "tags": [
+      "plumbing"
+    ],
+    "image": "/products/5l-hand-water-dispenser.png",
+    "images": [
+      "/products/5l-hand-water-dispenser.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-DISP-5L"
+  },
+  {
+    "id": "17",
+    "slug": "jerry-can-plastic",
+    "name": "Jerry Can (Plastic)",
+    "description": "Portable plastic jerry can, 10L–25L range.",
+    "longDescription": "Portable plastic jerry can, 10L–25L range.",
+    "price": 129,
+    "category": "Plumbing",
+    "categorySlug": "plumbing",
+    "tags": [
+      "plumbing"
+    ],
+    "image": "/products/jerry-can-plastic.png",
+    "images": [
+      "/products/jerry-can-plastic.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-JERRY"
+  },
+  {
+    "id": "18",
+    "slug": "steel-water-tank-valve",
+    "name": "Steel Water Tank Valve",
+    "description": "Brass-core steel water tank valve for large systems.",
+    "longDescription": "Brass-core steel water tank valve for large systems.",
+    "price": 300,
+    "category": "Plumbing",
+    "categorySlug": "plumbing",
+    "tags": [
+      "plumbing"
+    ],
+    "image": "/products/steel-water-tank-valve.png",
+    "images": [
+      "/products/steel-water-tank-valve.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-VALVE-TANK"
+  },
+  {
+    "id": "19",
+    "slug": "water-filter-inline-sediment",
+    "name": "Water Filter Inline Sediment",
+    "description": "20 micron inline sediment water filter cartridge.",
+    "longDescription": "20 micron inline sediment water filter cartridge.",
+    "price": 165,
+    "category": "Plumbing",
+    "categorySlug": "plumbing",
+    "tags": [
+      "plumbing"
+    ],
+    "image": "/products/water-filter-inline-sediment.jpeg",
+    "images": [
+      "/products/water-filter-inline-sediment.jpeg"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-FILTER-20M"
+  },
+  {
+    "id": "20",
+    "slug": "gutter-pvc-system-kit",
+    "name": "Gutter PVC System Kit",
+    "description": "PVC gutter system kit with 3m sections and brackets.",
+    "longDescription": "PVC gutter system kit with 3m sections and brackets.",
+    "price": 405,
+    "category": "Building Materials",
+    "categorySlug": "building-materials",
+    "tags": [
+      "building"
+    ],
+    "image": "/products/gutter-pvc-system-kit.png",
+    "images": [
+      "/products/gutter-pvc-system-kit.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-GUTTER-KIT"
+  },
+  {
+    "id": "21",
+    "slug": "hardbody-matt-ceramics-floor-tile-600-600",
+    "name": "Hardbody Matt Ceramics Floor Tile 600×600",
+    "description": "Durable matt finish ceramic floor tile for residential and commercial spaces.",
+    "longDescription": "Durable matt finish ceramic floor tile for residential and commercial spaces.",
+    "price": 0,
+    "category": "Tiles & Bathrooms",
+    "categorySlug": "tiles-bathrooms",
+    "tags": [
+      "tiles"
+    ],
+    "image": "https://opgsolutions.co.za/wp-content/uploads/2026/01/IMG_4710.jpg",
+    "images": [
+      "https://opgsolutions.co.za/wp-content/uploads/2026/01/IMG_4710.jpg"
+    ],
+    "availability": "on-demand",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG66010Z"
+  },
+  {
+    "id": "22",
+    "slug": "hardbody-glazed-ceramics-floor-tile-600-600",
+    "name": "Hardbody Glazed Ceramics Floor Tile 600×600",
+    "description": "Glazed ceramic floor tile with refined durable finish.",
+    "longDescription": "Glazed ceramic floor tile with refined durable finish.",
+    "price": 0,
+    "category": "Tiles & Bathrooms",
+    "categorySlug": "tiles-bathrooms",
+    "tags": [
+      "tiles"
+    ],
+    "image": "https://opgsolutions.co.za/wp-content/uploads/2026/01/IMG_4700.jpg",
+    "images": [
+      "https://opgsolutions.co.za/wp-content/uploads/2026/01/IMG_4700.jpg"
+    ],
+    "availability": "on-demand",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG66038Z"
+  },
+  {
+    "id": "23",
+    "slug": "mega-safety-boot-steel-toe-cap",
+    "name": "Mega Safety Boot Steel Toe Cap",
+    "description": "Steel toe cap safety boot for heavy-duty work environments.",
+    "longDescription": "Steel toe cap safety boot for heavy-duty work environments.",
+    "price": 367,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/mega-safety-boot-steel-toe-cap.png",
+    "images": [
+      "/products/mega-safety-boot-steel-toe-cap.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-BOOT-MEGA"
+  },
+  {
+    "id": "24",
+    "slug": "rebel-fx2-s1p-safety-boot",
+    "name": "REBEL FX2 S1P Safety Boot",
+    "description": "Premium S1P rated safety boot with reinforced protection.",
+    "longDescription": "Premium S1P rated safety boot with reinforced protection.",
+    "price": 699,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/rebel-fx2-s1p-safety-boot.png",
+    "images": [
+      "/products/rebel-fx2-s1p-safety-boot.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-BOOT-REBEL"
+  },
+  {
+    "id": "25",
+    "slug": "kaliber-jackal-safety-boot",
+    "name": "KALIBER JACKAL Safety Boot",
+    "description": "Budget-friendly safety boot for everyday site work.",
+    "longDescription": "Budget-friendly safety boot for everyday site work.",
+    "price": 299,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/kaliber-jackal-safety-boot.png",
+    "images": [
+      "/products/kaliber-jackal-safety-boot.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-BOOT-JACKAL"
+  },
+  {
+    "id": "26",
+    "slug": "lemaitre-hawk-safety-shoe",
+    "name": "Lemaitre Hawk Safety Shoe",
+    "description": "High-end safety shoe for professional tradespeople.",
+    "longDescription": "High-end safety shoe for professional tradespeople.",
+    "price": 1280,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/lemaitre-hawk-safety-shoe.png",
+    "images": [
+      "/products/lemaitre-hawk-safety-shoe.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-SHOE-HAWK"
+  },
+  {
+    "id": "27",
+    "slug": "safety-helmet",
+    "name": "Safety Helmet",
+    "description": "Standard construction safety helmet.",
+    "longDescription": "Standard construction safety helmet.",
+    "price": 96,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/safety-helmet.png",
+    "images": [
+      "/products/safety-helmet.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-HELMET"
+  },
+  {
+    "id": "28",
+    "slug": "reflective-safety-vest",
+    "name": "Reflective Safety Vest",
+    "description": "High-visibility reflective safety vest.",
+    "longDescription": "High-visibility reflective safety vest.",
+    "price": 50,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/reflective-safety-vest.png",
+    "images": [
+      "/products/reflective-safety-vest.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-VEST-HV"
+  },
+  {
+    "id": "29",
+    "slug": "milwaukee-personal-protection-kit",
+    "name": "Milwaukee Personal Protection Kit",
+    "description": "All-in-one personal protection kit with ear and eye protection.",
+    "longDescription": "All-in-one personal protection kit with ear and eye protection.",
+    "price": 1115,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/milwaukee-personal-protection-kit.png",
+    "images": [
+      "/products/milwaukee-personal-protection-kit.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-PPE-MIL"
+  },
+  {
+    "id": "30",
+    "slug": "protective-mask-goggles-combo",
+    "name": "Protective Mask + Goggles Combo",
+    "description": "Combined respiratory and eye protection mask combo.",
+    "longDescription": "Combined respiratory and eye protection mask combo.",
+    "price": 218,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/protective-mask-goggles-combo.jpeg",
+    "images": [
+      "/products/protective-mask-goggles-combo.jpeg"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-MASK-COMBO"
+  },
+  {
+    "id": "31",
+    "slug": "maxi-view-safety-goggles",
+    "name": "Maxi View Safety Goggles",
+    "description": "Budget safety goggles with wide field of view.",
+    "longDescription": "Budget safety goggles with wide field of view.",
+    "price": 44,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/maxi-view-safety-goggles.jpeg",
+    "images": [
+      "/products/maxi-view-safety-goggles.jpeg"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-GOGGLE-MAXI"
+  },
+  {
+    "id": "32",
+    "slug": "ghs-gas-double-mask",
+    "name": "GHS Gas Double Mask",
+    "description": "Double filter gas mask for dusty or chemical environments.",
+    "longDescription": "Double filter gas mask for dusty or chemical environments.",
+    "price": 129,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/ghs-gas-double-mask.png",
+    "images": [
+      "/products/ghs-gas-double-mask.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-MASK-GHS"
+  },
+  {
+    "id": "33",
+    "slug": "dromex-pvc-knit-wrist-gloves",
+    "name": "Dromex PVC Knit Wrist Gloves",
+    "description": "Standard duty PVC red knit wrist gloves.",
+    "longDescription": "Standard duty PVC red knit wrist gloves.",
+    "price": 12,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/dromex-pvc-knit-wrist-gloves.png",
+    "images": [
+      "/products/dromex-pvc-knit-wrist-gloves.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-GLOVE-PVC"
+  },
+  {
+    "id": "34",
+    "slug": "full-contractor-ready-to-work-combo",
+    "name": "Full Contractor Ready-to-Work Combo",
+    "description": "Contractor starter PPE combo deal for site workers.",
+    "longDescription": "Contractor starter PPE combo deal for site workers.",
+    "price": 550,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/full-contractor-ready-to-work-combo.png",
+    "images": [
+      "/products/full-contractor-ready-to-work-combo.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-COMBO-CON"
+  },
+  {
+    "id": "35",
+    "slug": "2-pc-reflective-overall-royal-blue",
+    "name": "2-Pc Reflective Overall (Royal Blue)",
+    "description": "Two-piece reflective work overall in royal blue.",
+    "longDescription": "Two-piece reflective work overall in royal blue.",
+    "price": 297,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/2-pc-reflective-overall-royal-blue.png",
+    "images": [
+      "/products/2-pc-reflective-overall-royal-blue.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-OVERALL-2P"
+  },
+  {
+    "id": "36",
+    "slug": "beck-rainsuit-reflective-rubberised",
+    "name": "Beck Rainsuit Reflective Rubberised",
+    "description": "Waterproof rubberised rainsuit with reflective tape.",
+    "longDescription": "Waterproof rubberised rainsuit with reflective tape.",
+    "price": 349,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/beck-rainsuit-reflective-rubberised.png",
+    "images": [
+      "/products/beck-rainsuit-reflective-rubberised.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-RAINSUIT"
+  },
+  {
+    "id": "37",
+    "slug": "tyvek-hooded-coveralls",
+    "name": "Tyvek Hooded Coveralls",
+    "description": "Dupont Tyvek hooded coveralls for dust and chemical protection.",
+    "longDescription": "Dupont Tyvek hooded coveralls for dust and chemical protection.",
+    "price": 140,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/tyvek-hooded-coveralls.png",
+    "images": [
+      "/products/tyvek-hooded-coveralls.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-COVERALL-TYV"
+  },
+  {
+    "id": "38",
+    "slug": "mastercraft-metric-tool-set-147-piece",
+    "name": "Mastercraft Metric Tool Set 147 Piece",
+    "description": "Comprehensive 147-piece metric tool set.",
+    "longDescription": "Comprehensive 147-piece metric tool set.",
+    "price": 3499,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/mastercraft-metric-tool-set-147-piece.png",
+    "images": [
+      "/products/mastercraft-metric-tool-set-147-piece.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-TOOL-147"
+  },
+  {
+    "id": "39",
+    "slug": "trade-professional-toolbox-kit-85-piece",
+    "name": "Trade Professional Toolbox Kit 85 Piece",
+    "description": "85-piece CRV trade professional toolbox kit.",
+    "longDescription": "85-piece CRV trade professional toolbox kit.",
+    "price": 2395,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/trade-professional-toolbox-kit-85-piece.jpeg",
+    "images": [
+      "/products/trade-professional-toolbox-kit-85-piece.jpeg"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-TOOL-85"
+  },
+  {
+    "id": "40",
+    "slug": "ingco-tools-set-168-piece",
+    "name": "Ingco Tools Set 168 Piece",
+    "description": "168-piece Ingco tools set for workshop and site.",
+    "longDescription": "168-piece Ingco tools set for workshop and site.",
+    "price": 1559,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/ingco-tools-set-168-piece.png",
+    "images": [
+      "/products/ingco-tools-set-168-piece.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-TOOL-168"
+  },
+  {
+    "id": "41",
+    "slug": "mac-afric-85-pcs-toolbox-with-tools",
+    "name": "Mac Afric 85 Pcs Toolbox With Tools",
+    "description": "Mac Afric 85-piece toolbox with hand tools included.",
+    "longDescription": "Mac Afric 85-piece toolbox with hand tools included.",
+    "price": 1795,
+    "category": "Hardware & Tools",
+    "categorySlug": "hardware-tools",
+    "tags": [
+      "hardware"
+    ],
+    "image": "/products/mac-afric-85-pcs-toolbox-with-tools.png",
+    "images": [
+      "/products/mac-afric-85-pcs-toolbox-with-tools.png"
+    ],
+    "availability": "in-stock",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "sku": "OPG-TOOL-MAC85"
+  }
+]

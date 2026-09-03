@@ -1,0 +1,11 @@
+<svg width="240" height="300" viewBox="0 0 240 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="OPG Solutions">
+  <path d="M120 28 L44 92 L120 92 Z" fill="#C5A059" stroke="#C5A059" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M120 28 L196 92 L120 92 Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M120 28 L44 92 M120 28 L196 92" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="56" y="58" width="12" height="22" rx="1" fill="#C5A059"/>
+  <text x="120" y="138" text-anchor="middle" fill="#FFFFFF" font-size="52" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="6">OPG</text>
+  <text x="120" y="168" text-anchor="middle" fill="#C5A059" font-size="14" font-weight="600" font-family="Arial, Helvetica, sans-serif" letter-spacing="8">SOLUTIONS</text>
+  <text x="120" y="196" text-anchor="middle" fill="#FFFFFF" font-size="9" font-weight="500" font-family="Arial, Helvetica, sans-serif" letter-spacing="4">BUILDING BETTER TOGETHER</text>
+  <line x1="72" y1="228" x2="168" y2="228" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.35"/>
+  <rect x="116" y="226" width="8" height="4" rx="1" fill="#C5A059"/>
+</svg>
