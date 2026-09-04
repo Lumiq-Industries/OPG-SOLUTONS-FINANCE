@@ -23,7 +23,8 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body className={`${cormorant.variable} ${dmSans.variable} antialiased`}>
+      <body className={`${cormorant.variable} ${dmSans.variable} antialiased relative`}>
+        <div className="ambient-glow" aria-hidden="true" />
         <FinanceShell>{children}</FinanceShell>
       </body>
     </html>
